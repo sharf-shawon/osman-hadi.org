@@ -2,7 +2,7 @@
 ---
 title: "About This Project"
 description: "Understanding our mission to preserve Sharif Osman Hadi's legacy"
-date: 2024-12-18
+date: 2025-12-18
 ---
 
 ## Why This Website Exists
