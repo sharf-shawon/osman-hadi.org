@@ -3,7 +3,7 @@ baseURL = "https://osman-hadi.org"
 theme = "LoveIt"
 themesDir = "./themes"
 
-title = "Sharif Osman Hadi (1993 - 2025)"
+title = "Sharif Osman Hadi (1993 - ∞)"
 
 defaultContentLanguage = "en"
 languageCode = "en"
@@ -75,10 +75,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   title = "Sharif Osman Hadi"
 
 
-  description = "Remembering Martyre Sharif Islam Hadi"
+  description = "Remembering Martyre Sharif Osman Hadi"
 
 
-  images = ["/logo.png"]
+  images = ["/images/logo.png"]
 
 
 
@@ -104,16 +104,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
     
     
-      name = "Sharif Islam Hadi"
+      name = "Sharif Osman Hadi"
     
     
-      pre = "<img src='favicon.ico'>"
+      pre = "<img src='/favicon.ico'>"
     
     
       post = ""
     
     
-      typeit = true
+      typeit = false
 
 
 
@@ -124,7 +124,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     custom = ""
 
 
-    hugo = true
+    hugo = false
 
 
     copyright = true
@@ -820,7 +820,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/sharf-shawon/osman-hadi.org"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
